@@ -28,7 +28,7 @@ public class Main {
         return "Оставайтесь дома";
         }
     }
-
+        // Здраствуйте учитель спасибо вам за доп время
     public static int geterateRandomAge(){
         Random random = new Random();
         return random.nextInt(50);
